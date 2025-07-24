@@ -5,7 +5,7 @@ A responsive and visually appealing job application portal built using **HTML** 
 
 ## 🚀 Live Demo
 
-👉 [Live Preview](https://your-netlify-link.netlify.app)  
+👉 [Live Preview](https://soft-frangollo-d14f8d.netlify.app/)  
 
 
 ## ✨ Features
